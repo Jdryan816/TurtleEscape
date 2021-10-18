@@ -1,3 +1,4 @@
+# Jack and Will's Program
 import turtle
 
 maze = turtle.Turtle()
