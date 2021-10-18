@@ -3,8 +3,9 @@ import turtle
 
 maze = turtle.Turtle()
 
-maze.speed(0)
+maze.speed(1)
 maze.pensize(3)
+
 
 for index in range(30):
     maze.fd(20 + 20*index)
